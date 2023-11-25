@@ -1,3 +1,4 @@
+![qr](https://github.com/rasnesakam/gen-qr/assets/45129228/6ad6a025-3789-467d-9492-e2da521f6074)
 # GEN-QR
 gen-qr is a tool for generating qr codes
 
